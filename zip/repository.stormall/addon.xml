@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.stormall" name="[COLOR lime]storm[/COLOR]" version="2.0" provider-name="[COLOR lime]storm[/COLOR]">
+    <extension point="xbmc.addon.repository" name="storm">
+		<info compressed="false">http://storm2320.square7.ch/stormprime/stormrepo/zip/addons.xml</info>
+		<checksum>http://storm2320.square7.ch/stormprime/stormrepo/zip/addons.xml.md5</checksum>
+		<datadir zip="true">http://storm2320.square7.ch/stormprime/stormrepo/zip/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR lime]storm[/COLOR]</summary>
+        <description>Facebook Gruppe :
+Hardware - Software - Kodi - DE</description>
+        <platform>all</platform>
+    </extension>
+</addon>
