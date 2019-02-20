@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<<<<<<< HEAD
-<addon id="plugin.program.stormwizard" name="[B][COLOR blue]Storm[/B][/COLOR] [COLOR white]Wizard[/COLOR]" version="2.0" provider-name="Storm">
-=======
 <addon id="plugin.program.stormwizard" name="[B][COLOR blue]Storm[/B][/COLOR] [COLOR white]Wizard[/COLOR]" version="1.9" provider-name="Storm">
->>>>>>> 551fff0debd7fbc4eba97963d87b953868f0c5a8
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
